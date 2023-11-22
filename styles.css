@@ -1,5 +1,6 @@
 body {
     background-color:#090909;
+    text-align: center;
 }
 .invitation-container {
     max-width: 600px;
@@ -64,6 +65,9 @@ body {
         color: #fff;
         text-decoration: none;
         border-radius: 5px;
+    }
+    iframe{
+        width: 100%;
     }
     
 }
